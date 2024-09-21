@@ -1,0 +1,20 @@
+{
+  "user": [
+    {
+      "id": 0,
+      "username": "john_doe",
+      "mail": "john.doe@example.com",
+      "phoneNumber": "123-456-7890",
+      "skillsets": "C#, .NET, SQL",
+      "hobby": "Photography"
+    },
+    {
+      "id": 1,
+      "username": "john_doe",
+      "mail": "john.doe@example.com",
+      "phoneNumber": "123-456-7890",
+      "skillsets": "C#, .NET, SQL",
+      "hobby": "Photography"
+    }
+  ]
+}
