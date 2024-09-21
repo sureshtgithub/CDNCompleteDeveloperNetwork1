@@ -27,7 +27,7 @@ Getting Started
 Backend (ASP.NET Core 8 Web API)
 
 Clone the Repository:
-git clone https://github.com/sureshtgithub/CDNCompleteDeveloperNetwork
+git clone https://github.com/sureshtgithub/CDNCompleteDeveloperNetwork1
 
 Navigate to the Project Folder:
 cd CDNCompleteDeveloperNetwork
